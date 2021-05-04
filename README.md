@@ -5,7 +5,7 @@ This is a toy application that I used to experiment building and viewing
 NFT smart contracts on ethereum. 
 
 ## app
-The dapp to view NFTs creating using RayCoin. To mint NFTs go to the
+The dapp using Next.js to view NFTs creating using RayCoin. To mint NFTs go to the
 /tokens directory and execute the command
 
 yarn hardhat run scripts/mintNFT.js --network ropsten
